@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Alexandre Almeida
 
-- 🔭 Trabalho com desenvolvimento fullstack
+- 🔭 Desenvolvedor FullStack
 - 🌱 Estudando React, Typescript, AWS
 - 😄 Pronouns: ele/dele
 
