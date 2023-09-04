@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Alexandre Almeida
 
 - 🔭 Desenvolvedor FullStack
-- 🌱 Estudando React, Typescript, AWS
+- 🌱 Estudando Node.js, JavaScript, React, Typescript, AWS
 - 😄 Pronouns: ele/dele
 
 <div>
