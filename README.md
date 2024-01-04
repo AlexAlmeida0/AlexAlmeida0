@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedor FullStack
 - 🌱 Estudando Node.js, JavaScript, React, Typescript, AWS
-- 😄 Pronouns: ele/dele
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexAlmeida0&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
